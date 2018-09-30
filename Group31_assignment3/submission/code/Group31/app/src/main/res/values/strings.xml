@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Activity Classifier</string>
+    <string name="train_options_info">ddknkjjkbkkbkb</string>
+    <string-array name="kernel_items">
+        <item>Linear</item>
+        <item>Polynomial</item>
+        <item>Radial Basis</item>
+        <item>sigmoid</item>
+    </string-array>
+    <string-array name="parameters_items">
+        <item>3-Fold</item>
+        <item>4-Fold</item>
+        <item>5-Fold</item>
+    </string-array>
+    <string-array name="activity_items">
+        <item>Walking</item>
+        <item>Jumping</item>
+        <item>Running</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
